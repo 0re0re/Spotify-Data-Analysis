@@ -92,8 +92,8 @@ Out of 4,524 plays, 3,345 were under 30 seconds. I browse more than I commit. Bu
 
 | File | Description |
 |------|-------------|
-| `spotify_analysis.ipynb` | Google Colab notebook with full Python analysis |
-| `spotify_dashboard.twbx` | Packaged Tableau workbook with interactive dashboard |
+| `SpotifyProject.ipynb` | Google Colab notebook with full Python analysis |
+| `MySpotifyDashboard.twbx` | Packaged Tableau workbook with interactive dashboard |
 | `dashboard.png` | Screenshot of the final Tableau dashboard |
 | `README.md` | You're reading it! |
 
